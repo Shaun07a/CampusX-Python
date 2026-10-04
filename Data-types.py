@@ -23,5 +23,9 @@
 # print((1,2,3,4,5))
 
 #Sets
-print({1,2,3,4,5})
+# print({1,2,3,4,5})
+
+#Dict
+print({"Name":"Nitish", "Age":30, "Gender":"Male"})
+
 
