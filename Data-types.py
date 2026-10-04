@@ -10,3 +10,8 @@
 
 #Complex
 # print(4+5j)
+
+#String
+print('Kolkata')
+print("KolKata")
+print("""Kolkata""")
