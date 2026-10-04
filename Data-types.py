@@ -26,6 +26,6 @@
 # print({1,2,3,4,5})
 
 #Dict
-print({"Name":"Nitish", "Age":30, "Gender":"Male"})
+# print({"Name":"Nitish", "Age":30, "Gender":"Male"})
 
 
