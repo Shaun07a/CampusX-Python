@@ -8,4 +8,6 @@
 
 # print("India", "Pakistan", "Nepal", "SriLanka")
 
-print("India", 5, True)
+# print("India", 5, True)
+
+print("India", "Pakistan", "Nepal", "SriLanka", sep="/")
