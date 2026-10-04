@@ -6,4 +6,6 @@
 
 # print(False)
 
-print("India", "Pakistan", "Nepal", "SriLanka")
+# print("India", "Pakistan", "Nepal", "SriLanka")
+
+print("India", 5, True)
