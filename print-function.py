@@ -12,4 +12,7 @@
 
 # print("India", "Pakistan", "Nepal", "SriLanka", sep="/")
 
-print("India", "Pakistan", "Nepal", "SriLanka", sep="-")
+# print("India", "Pakistan", "Nepal", "SriLanka", sep="-")
+
+print("Hello", end=" ")
+print("World")
