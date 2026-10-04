@@ -5,5 +5,8 @@
 # print(4.5)
 
 #Boolean
-print(True)
-print(False)
+# print(True)
+# print(False)
+
+#Complex
+# print(4+5j)
