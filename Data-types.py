@@ -1,0 +1,2 @@
+#Integer
+print(4)
