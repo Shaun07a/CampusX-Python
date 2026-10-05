@@ -40,6 +40,10 @@
 # print(a)
 
 #Identity
-a = 2
-b = 2
-print(a is b)
+# a = 2
+# b = 2
+# print(a is b)
+
+#Membership
+a = "Delhi"
+print("D" in a)
