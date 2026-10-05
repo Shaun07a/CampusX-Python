@@ -35,6 +35,11 @@
 # print(~x)
 
 #Assignment
+# a = 2
+# a += 1
+# print(a)
+
+#Identity
 a = 2
-a += 1
-print(a)
+b = 2
+print(a is b)
