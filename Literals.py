@@ -3,6 +3,6 @@
 
 # print(x, x.imag, x.real)
 
-#Special Literal
+#Special Literal && Variable Declaration
 a = None
 print(a)
