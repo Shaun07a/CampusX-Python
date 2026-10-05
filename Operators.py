@@ -26,10 +26,15 @@
 # print(not x)
 
 #Bitwise
-x = 2
-y = 3
-print(x & y)
-print(x | y)
-print( x >> 2)
-print( x << 2)
-print(~x)
+# x = 2
+# y = 3
+# print(x & y)
+# print(x | y)
+# print( x >> 2)
+# print( x << 2)
+# print(~x)
+
+#Assignment
+a = 2
+a += 1
+print(a)
