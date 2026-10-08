@@ -6,5 +6,12 @@ password = input("Enter the password")
 
 if email == "campus@gmail.com" and password == "1234":
     print("Welcome")
+elif email == "campus@gmail.com" and password != "1234":
+    print("Password Incorrect")
+    password = input("Enter the password again")
+    if password == "1234":
+        print("Finally correct")
+    else:
+        print("Still Incorrect")
 else:
     print("Incorrect Credentials")
