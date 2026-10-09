@@ -10,5 +10,8 @@
 # for i in "Kolkata":
 #     print(i)
 
-for i in [1, 2, 3, 5]:
+# for i in [1, 2, 3, 5]:
+#     print(i)
+
+for i in (1, 2, 3, 5):
     print(i)
