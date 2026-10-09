@@ -7,5 +7,8 @@
 # for i in range(1, 11, 2):
 #     print(i)
 
-for i in "Kolkata":
+# for i in "Kolkata":
+#     print(i)
+
+for i in [1, 2, 3, 5]:
     print(i)
