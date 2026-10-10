@@ -19,5 +19,9 @@
 # print(pow(2, 3))
 
 # min and max
-print(min([2,1,3,0]))
-print(max([2,1,3,0]))
+# print(min([2,1,3,0]))
+# print(max([2,1,3,0]))
+
+# round
+c = 22/7
+print(round(c, 2))
