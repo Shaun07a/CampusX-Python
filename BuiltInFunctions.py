@@ -16,4 +16,8 @@
 # print(abs(-4))
 
 # power
-print(pow(2, 3))
+# print(pow(2, 3))
+
+# min and max
+print(min([2,1,3,0]))
+print(max([2,1,3,0]))
