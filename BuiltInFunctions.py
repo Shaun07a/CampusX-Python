@@ -39,4 +39,7 @@
 # print(id(a))
 
 # ord
-print(ord('A'))
+# print(ord('A'))
+
+# len
+print(len('Kolkata'))
