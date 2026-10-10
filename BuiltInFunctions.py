@@ -42,4 +42,7 @@
 # print(ord('A'))
 
 # len
-print(len('Kolkata'))
+# print(len('Kolkata'))
+
+# sum
+print(sum([1,2,3,4,5]))
