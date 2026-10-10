@@ -13,4 +13,7 @@
 # print(type(int('5')))
 
 # absolute
-print(abs(-4))
+# print(abs(-4))
+
+# power
+print(pow(2, 3))
