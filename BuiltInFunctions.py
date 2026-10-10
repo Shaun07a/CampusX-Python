@@ -10,4 +10,7 @@
 # print(type(a))
 
 # type conversion
-print(type(int('5')))
+# print(type(int('5')))
+
+# absolute
+print(abs(-4))
