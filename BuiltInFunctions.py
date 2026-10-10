@@ -6,5 +6,8 @@
 # print(name)
 
 # type
-a = 3
-print(type(a))
+# a = 3
+# print(type(a))
+
+# type conversion
+print(type(int('5')))
