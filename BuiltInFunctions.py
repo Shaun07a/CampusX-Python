@@ -23,5 +23,8 @@
 # print(max([2,1,3,0]))
 
 # round
-c = 22/7
-print(round(c, 2))
+# c = 22/7
+# print(round(c, 2))
+
+# divmod
+print(divmod(5, 2))
