@@ -30,6 +30,10 @@
 # print(divmod(5, 2))
 
 # bin, oct & hex
-print(bin(4))
-print(oct(4))
-print(hex(4))
+# print(bin(4))
+# print(oct(4))
+# print(hex(4))
+
+# id
+a = 4
+print(id(a))
